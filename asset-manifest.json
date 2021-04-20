@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.ed642caf.chunk.css",
+    "main.js": "/myPortfolio/static/js/main.efaeb34e.chunk.js",
+    "main.js.map": "/myPortfolio/static/js/main.efaeb34e.chunk.js.map",
+    "runtime-main.js": "/myPortfolio/static/js/runtime-main.84088cf0.js",
+    "runtime-main.js.map": "/myPortfolio/static/js/runtime-main.84088cf0.js.map",
+    "static/js/2.99be0be4.chunk.js": "/myPortfolio/static/js/2.99be0be4.chunk.js",
+    "static/js/2.99be0be4.chunk.js.map": "/myPortfolio/static/js/2.99be0be4.chunk.js.map",
+    "static/js/3.549c9b51.chunk.js": "/myPortfolio/static/js/3.549c9b51.chunk.js",
+    "static/js/3.549c9b51.chunk.js.map": "/myPortfolio/static/js/3.549c9b51.chunk.js.map",
+    "index.html": "/myPortfolio/index.html",
+    "static/css/main.ed642caf.chunk.css.map": "/myPortfolio/static/css/main.ed642caf.chunk.css.map",
+    "static/js/2.99be0be4.chunk.js.LICENSE.txt": "/myPortfolio/static/js/2.99be0be4.chunk.js.LICENSE.txt",
+    "static/media/TopContainer.css": "/myPortfolio/static/media/Aboutme.a5b17e09.jpg",
+    "static/media/Manonmani.26b99c36.pdf": "/myPortfolio/static/media/Manonmani.26b99c36.pdf",
+    "static/media/bootstrap.333f5e43.svg": "/myPortfolio/static/media/bootstrap.333f5e43.svg",
+    "static/media/css3.9cecabbf.svg": "/myPortfolio/static/media/css3.9cecabbf.svg",
+    "static/media/github.fad4b944.svg": "/myPortfolio/static/media/github.fad4b944.svg",
+    "static/media/ExperienceContainer.css": "/myPortfolio/static/media/headPhone.6af67c43.jpg",
+    "static/media/html5.c28bc668.svg": "/myPortfolio/static/media/html5.c28bc668.svg",
+    "static/media/javascript.f719efab.svg": "/myPortfolio/static/media/javascript.f719efab.svg",
+    "static/media/material-ui.fd510ed8.svg": "/myPortfolio/static/media/material-ui.fd510ed8.svg",
+    "static/media/mongodb.1aca075d.svg": "/myPortfolio/static/media/mongodb.1aca075d.svg",
+    "static/media/nodejs.0f5c1eec.svg": "/myPortfolio/static/media/nodejs.0f5c1eec.svg",
+    "static/media/ourStory.76f0a777.jpg": "/myPortfolio/static/media/ourStory.76f0a777.jpg",
+    "static/media/react.7098e271.svg": "/myPortfolio/static/media/react.7098e271.svg",
+    "static/media/sass.8ec16938.svg": "/myPortfolio/static/media/sass.8ec16938.svg",
+    "static/media/todo.5b703554.jpg": "/myPortfolio/static/media/todo.5b703554.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84088cf0.js",
+    "static/js/2.99be0be4.chunk.js",
+    "static/css/main.ed642caf.chunk.css",
+    "static/js/main.efaeb34e.chunk.js"
+  ]
+}
