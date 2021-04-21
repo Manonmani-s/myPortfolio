@@ -1,0 +1,36 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin: 12.5rem 0 7rem;
+}
+.contact__container {
+  border: 1px solid white;
+  width: 40rem;
+  height: 12rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  margin-top: 1.2rem;
+}
+.contact__container > p {
+  font: 1.2rem;
+  text-align: left;
+  padding-bottom: 2rem;
+}
+
+.contact__container > p > span {
+  color: #f64c08;
+}
+
+.contact__icons > a > button > span > MuiSvgIcon-root > {
+  color: white;
+  font-size: 2rem;
+}
+.contact__icons > a > button {
+  color: white !important;
+}

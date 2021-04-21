@@ -1,0 +1,34 @@
+.skills {
+  padding-top: 2rem;
+}
+h1 {
+  font-size: 2.6rem;
+  text-align: center;
+  margin-top: 0.8rem;
+  margin-bottom: 0;
+  color: white;
+}
+
+.skills-flex-container {
+  width: 70%;
+  margin: 10rem auto;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.skills-flex-container .skill-logo {
+  margin: 1.5rem;
+  height: 10rem;
+  opacity: 0.8;
+  filter: brightness(100%) drop-shadow(4px 4px 3px #398494);
+}
+
+.skills-flex-container .skill-transition {
+  transition: all 0.5s ease;
+}
+.skill-transition:hover {
+  filter: brightness(110%) drop-shadow(6px 6px 6px #3b8999);
+  transform: scale(1.5);
+  opacity: 1;
+}
